@@ -1,0 +1,12 @@
+article > p::first-line{
+    background-color: aqua;
+
+}
+article > p::first-letter {
+    background-color: brown;
+
+}
+    
+
+
+    
